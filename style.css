@@ -1,0 +1,99 @@
+body{
+    font-family:Cambria;
+
+}
+.container{
+    width: 800px;
+    background-color: lightblue;
+}
+.header {
+    background-color: green;
+    text-align: center;
+}
+.nav_header{
+    
+    padding : 20;
+    text-align: left;
+    
+    
+}
+
+.nav-link{
+    margin-right: 15px;
+    
+   
+}
+.home_page_image{
+    width: 350px;
+    height: 300px;
+}
+.contact_image{
+    width: 200px;
+    height: 200px;
+}
+.trig_image{
+    width: 200px;
+    height: 200px; 
+}
+.derivate_img{
+    width: 500px;
+    height: 200px; 
+}
+.integrale_image{
+    width: 300px;
+    height: 100px; 
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: black;
+    color: white;
+  }
+
+  .content{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background-color: orange;
+      width: 800px;
+      text-align: left;
+  }
+  .nav{
+      display: inline-block;
+      background-color: purple;
+      width: 180px;
+        }
+  .main{
+    background-color: blue;
+    width: 600px;
+  }
+  .article1{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+  }
+  .p1{
+      display: inline-block;
+
+  }
+  .button{
+      background-color: gray;
+      font-style: italic;
+      text-decoration-color: blue;
+      text-align: center;
+      font-size: large;
+  }
+  .trig1{
+      display: inline-block;
+      background-color: blue;
+  }
+  .formule_trig{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+  }
+ 
+  .prima_formula{
+      background-color: red;
+  }
